@@ -1,20 +1,20 @@
 {
-  "name": "parcel-template",
+  "name": "deane-and-white",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://eugeniusz57.github.io/parcel-template",
+  "homepage": "https://eugeniusz57.github.io/deane-and-white",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-template/"
+    "build": "parcel build src/*.html --public-url /deane-and-white/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eugeniusz57/parcel-template.git"
+    "url": "git+https://github.com/eugeniusz57/deane-and-white.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eugeniusz57/parcel-template/issues"
+    "url": "https://github.com/eugeniusz57/deane-and-white/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
